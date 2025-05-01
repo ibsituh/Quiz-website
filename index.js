@@ -5,7 +5,7 @@ const eachQuestion = document.getElementById("question");
 const qa = document.getElementById("qa");
 const answerButtons = document.getElementById("answerbtn");
 const nextButton = document.getElementById("next-btn");
-console.log(noOfQues);
+
 
 const currentIndex = 0;
 let score = 0;
